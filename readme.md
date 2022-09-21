@@ -29,8 +29,8 @@
 - 측정 각도 범위 : 15 degree
 - Trigger Input : 10µs TTL pulse
 
-## 필요 하드웨어
-﻿- HC-SR04
+## 필요 하드웨어﻿
+- HC-SR04
 - Arduino UNO
 - UNO cable
 - F-M cable(4ea)
